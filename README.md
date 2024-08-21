@@ -2,7 +2,7 @@
 
 ## Introduction
 After having a severe attack from the Boogeyman, Quick Logistics LLC improved its security defences. However, the Boogeyman returns with new and improved tactics, techniques and procedures. 
-In this room, you will be tasked to analyse the new tactics, techniques, and procedures (TTPs) of the threat group named Boogeyman. 
+In this room, I will be tasked to analyse the new tactics, techniques, and procedures (TTPs) of the threat group named Boogeyman. 
 
 ### Artefacts
 For the investigation, you will be provided with the following artefacts:
